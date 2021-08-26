@@ -13,6 +13,8 @@ public class ZeroTest {
             }
         }
 
+
+
         try {
             int i = 100 / 0;
         } catch (Exception e) {
@@ -22,6 +24,5 @@ public class ZeroTest {
             System.out.println(2);
         }
 
-        System.out.println(3);
     }
 }
