@@ -4,8 +4,6 @@ public class ZeroTest {
 
     public static void main(String[] args) {
 
-        System.out.println(98 & -8);
-
         int sum = 0;
         for (int i = 0; i<20; i++) {
             sum += 0;
@@ -14,9 +12,6 @@ public class ZeroTest {
                 break;
             }
         }
-
-        System.out.println(sum);
-
 
         try {
             int i = 100 / 0;
