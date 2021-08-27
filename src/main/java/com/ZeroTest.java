@@ -14,6 +14,8 @@ public class ZeroTest {
         }
 
 
+        System.out.println(sum);
+
 
         try {
             int i = 100 / 0;
